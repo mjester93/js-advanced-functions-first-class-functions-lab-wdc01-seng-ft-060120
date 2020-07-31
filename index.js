@@ -15,4 +15,5 @@ const createFareMultiplier = (integer) => {
   }
 }
 
-const fareDoubler = createFaireMultiplier(2);
+const fareDoubler = createFareMultiplier(2);
+const fairTripler = createFareMultiplier(3)
