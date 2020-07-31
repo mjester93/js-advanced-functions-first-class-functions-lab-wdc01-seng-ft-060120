@@ -1,4 +1,4 @@
 // Code your solution in this file!
 const returnFirstTwoDrivers = (drivers) => {
-  return drivers[0:1]
+  return drivers.splice(0, 2);
 }
