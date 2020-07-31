@@ -17,4 +17,3 @@ const createFareMultiplier = (integer) => {
 
 const fareDoubler = createFareMultiplier(2);
 const fairTripler = createFareMultiplier(3);
-
